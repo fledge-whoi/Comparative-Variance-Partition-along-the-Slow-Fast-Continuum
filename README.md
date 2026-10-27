@@ -6,7 +6,7 @@ This README file was generated on 2026-07-01 and last updated on 2026-10-16.
 **Version:** v2.0.0 (Python translation of the MATLAB version 1.0.0)
 **Associated article:** Elise J.-P., Fay R., Garnier J., Caswell H., Gaillard J.-M., Gamelon M., Aubry L. M., Jenouvrier S. *Differential Contributions of Heterogeneity and Stochasticity to Individuals' Life Histories along the Slow-fast Continuum.* Manuscript submitted to Ecology Letters.
 **Archive (code and data):** Zenodo, https://doi.org/10.5281/zenodo.23298484 (previous MATLAB version 1.0.0: https://doi.org/10.5281/zenodo.21210108)
-**Code repository:** https://github.com/jp-elise/individual_heterogeneity_python
+**Code repository:** https://github.com/fledge-whoi/Comparative-Variance-Partition-along-the-Slow-Fast-Continuum/
 **Short description:** Python code and simulated data for the article. The code simulates heterogeneous populations of six synthetic species along the slow-fast continuum and computes the mean and variance of longevity and lifetime reproductive output. It partitions that variance into individual stochasticity (within-group variance) and fixed individual heterogeneity (between-group variance), and decomposes the latter factorially among vital rates.
 
 **Date of creation:** 2023-02-15 to 2026-10-10
@@ -302,4 +302,4 @@ Jean-Pierre Elise, École Normale Supérieure de Lyon, jean-pierre.elise@ens-lyo
 
 **Principal investigator:** Stéphanie Jenouvrier, Woods Hole Oceanographic Institution (WHOI), ORCID https://orcid.org/0000-0003-3324-2383
 
-Bug reports and questions can also be posted as issues on the code repository: https://github.com/jp-elise/individual_heterogeneity_python/issues
+Bug reports and questions can also be posted as issues on the code repository: https://github.com/fledge-whoi/Comparative-Variance-Partition-along-the-Slow-Fast-Continuum/
