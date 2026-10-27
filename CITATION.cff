@@ -39,9 +39,9 @@ identifiers:
     value: "10.5281/zenodo.21210108"
     description: "Previous version 1.0.0 (MATLAB implementation)"
   - type: url
-    value: "https://github.com/jp-elise/individual_heterogeneity_python"
+    value: "https://github.com/fledge-whoi/Comparative-Variance-Partition-along-the-Slow-Fast-Continuum"
     description: "Code repository"
-repository-code: "https://github.com/jp-elise/individual_heterogeneity_python"
+repository-code: "https://github.com/fledge-whoi/Comparative-Variance-Partition-along-the-Slow-Fast-Continuum"
 license:
   - GPL-3.0-or-later
   - CC-BY-4.0
