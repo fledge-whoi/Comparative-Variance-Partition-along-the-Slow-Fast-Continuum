@@ -1,0 +1,77 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite them as below, together with the associated article (see references)."
+type: software
+title: "Individual Heterogeneity along the Slow-Fast Continuum (code and data)"
+abstract: >-
+  Python code and simulated data that reproduce the results of the article
+  "Differential Contributions of Heterogeneity and Stochasticity to
+  Individuals' Life Histories along the Slow-fast Continuum". The code
+  simulates heterogeneous populations of six synthetic species along the
+  slow-fast continuum and partitions the variance in longevity and lifetime
+  reproductive output into individual stochasticity and fixed individual
+  heterogeneity, including a factorial decomposition among vital rates.
+  The data (simulation results, CSV and NumPy formats) are described in the
+  README. Python translation of the original MATLAB implementation (v1.0.0).
+authors:
+  - family-names: "Elise"
+    given-names: "Jean-Pierre"
+    email: "jean-pierre.elise@ens-lyon.fr"
+    affiliation: "École Normale Supérieure de Lyon"
+    orcid: "https://orcid.org/0009-0000-3899-5021"
+  - family-names: "Jenouvrier"
+    given-names: "Stéphanie"
+    affiliation: "Woods Hole Oceanographic Institution"
+    orcid: "https://orcid.org/0000-0003-3324-2383"
+contact:
+  - family-names: "Elise"
+    given-names: "Jean-Pierre"
+    email: "jean-pierre.elise@ens-lyon.fr"
+    affiliation: "École Normale Supérieure de Lyon"
+    orcid: "https://orcid.org/0009-0000-3899-5021"
+version: "2.0.0"
+date-released: "2026-10-16"
+doi: "10.5281/zenodo.23298484"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23298484"
+    description: "Zenodo archive of this version (code and data)"
+  - type: doi
+    value: "10.5281/zenodo.21210108"
+    description: "Previous version 1.0.0 (MATLAB implementation)"
+  - type: url
+    value: "https://github.com/jp-elise/individual_heterogeneity_python"
+    description: "Code repository"
+repository-code: "https://github.com/jp-elise/individual_heterogeneity_python"
+license:
+  - GPL-3.0-or-later
+  - CC-BY-4.0
+keywords:
+  - slow-fast continuum
+  - individual heterogeneity
+  - individual stochasticity
+  - variance partition
+  - matrix population models
+  - life history outcomes
+  - Python
+references:
+  - type: article
+    title: "Differential Contributions of Heterogeneity and Stochasticity to Individuals' Life Histories along the Slow-fast Continuum"
+    authors:
+      - family-names: "Elise"
+        given-names: "Jean-Pierre"
+      - family-names: "Fay"
+        given-names: "Rémi"
+      - family-names: "Garnier"
+        given-names: "Jimmy"
+      - family-names: "Caswell"
+        given-names: "Hal"
+      - family-names: "Gaillard"
+        given-names: "Jean-Michel"
+      - family-names: "Gamelon"
+        given-names: "Marlène"
+      - family-names: "Aubry"
+        given-names: "Lise M."
+      - family-names: "Jenouvrier"
+        given-names: "Stéphanie"
+    journal: "Ecology Letters"
+    notes: "Manuscript submitted"
